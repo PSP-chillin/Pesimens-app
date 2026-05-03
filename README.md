@@ -19,7 +19,7 @@
 <p align="center">
   <strong>Author & Maintainer:</strong> Darshan P Pawar<br/>
   <a href="https://github.com/DarshanPawar7">GitHub: @DarshanPawar7</a> •
-  <a href="mailto:darshanpawarworks@email.com">Email: darshanpawarworks@email.com</a> •
+  <a href="mailto:darshanpawarworks@gmail.com">Email: darshanpawarworks@email.com</a> •
   <a href="https://linkedin.com/in/darshanpawar7">LinkedIn: Darshan P Pawar</a>
 </p>
 
